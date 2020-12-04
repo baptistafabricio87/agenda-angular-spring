@@ -1,4 +1,4 @@
-package com.gitlab.fabricio.castro.agenda.model.entity;
+package com.gitlab.fabricio.castro.agenda.model.entities;
 
 import lombok.Data;
 
