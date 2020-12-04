@@ -34,7 +34,7 @@ public class ClientController {
 
     @DeleteMapping("{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
-    public void delete (@PathVariable Integer id ) {
+    public void deleteClient (@PathVariable Integer id ) {
         repository
                 .findById(id)
                 .map(client -> {

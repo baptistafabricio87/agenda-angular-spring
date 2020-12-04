@@ -28,40 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cb50d06-509b-4eb8-b99b-c764e7077e10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/agenda-angular-spring.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agenda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/agenda.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/AgendaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/AgendaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/config/TestConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/entity/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/entities/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/entity/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/entities/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/repositories/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/repositories/ClientRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/repositories/ServiceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/repositories/ServiceRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/repository/ClientRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/repository/ServiceRepository.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/rest/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/rest/ClientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/AgendaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/AgendaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/config/TestConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/config/TestConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/entity/Client$ClientBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/entity/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/entity/Service.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/repositories/ClientRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/repositories/ClientRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/repositories/ServiceRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/repositories/ServiceRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/repository/ClientRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/repository/ServiceRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/rest/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/rest/ClientController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +135,7 @@
       <workItem from="1606334313197" duration="5571000" />
       <workItem from="1606776539452" duration="86000" />
       <workItem from="1606776662317" duration="10231000" />
-      <workItem from="1607103818317" duration="3099000" />
+      <workItem from="1607103818317" duration="3739000" />
     </task>
     <servers />
   </component>
@@ -223,59 +190,59 @@
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="437" y="140" width="424" height="490" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1606779222172" />
-    <state width="1366" height="180" key="GridCell.Tab.0.bottom" timestamp="1607106958631">
+    <state width="1366" height="180" key="GridCell.Tab.0.bottom" timestamp="1607107002407">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1366" height="180" key="GridCell.Tab.0.bottom/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607106958631" />
+    <state width="1366" height="180" key="GridCell.Tab.0.bottom/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
     <state width="1320" height="173" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1606780124686" />
     <state width="1320" height="216" key="GridCell.Tab.0.bottom/0.25.2646.743@0.25.2646.743" timestamp="1606956036153" />
     <state width="1320" height="176" key="GridCell.Tab.0.bottom/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517120" />
-    <state width="1366" height="180" key="GridCell.Tab.0.center" timestamp="1607106958631">
+    <state width="1366" height="180" key="GridCell.Tab.0.center" timestamp="1607107002406">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1366" height="180" key="GridCell.Tab.0.center/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607106958631" />
+    <state width="1366" height="180" key="GridCell.Tab.0.center/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002406" />
     <state width="1320" height="173" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1606780124685" />
     <state width="1320" height="216" key="GridCell.Tab.0.center/0.25.2646.743@0.25.2646.743" timestamp="1606956036153" />
     <state width="1320" height="176" key="GridCell.Tab.0.center/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517119" />
-    <state width="1366" height="180" key="GridCell.Tab.0.left" timestamp="1607106958630">
+    <state width="1366" height="180" key="GridCell.Tab.0.left" timestamp="1607107002406">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1366" height="180" key="GridCell.Tab.0.left/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607106958630" />
+    <state width="1366" height="180" key="GridCell.Tab.0.left/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002406" />
     <state width="1320" height="173" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1606780124685" />
     <state width="1320" height="216" key="GridCell.Tab.0.left/0.25.2646.743@0.25.2646.743" timestamp="1606956036152" />
     <state width="1320" height="176" key="GridCell.Tab.0.left/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517119" />
-    <state width="1366" height="180" key="GridCell.Tab.0.right" timestamp="1607106958631">
+    <state width="1366" height="180" key="GridCell.Tab.0.right" timestamp="1607107002407">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1366" height="180" key="GridCell.Tab.0.right/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607106958631" />
+    <state width="1366" height="180" key="GridCell.Tab.0.right/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
     <state width="1320" height="173" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1606780124685" />
     <state width="1320" height="216" key="GridCell.Tab.0.right/0.25.2646.743@0.25.2646.743" timestamp="1606956036153" />
     <state width="1320" height="176" key="GridCell.Tab.0.right/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517119" />
-    <state width="1366" height="180" key="GridCell.Tab.1.bottom" timestamp="1607106958631">
+    <state width="1366" height="180" key="GridCell.Tab.1.bottom" timestamp="1607107002407">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1366" height="180" key="GridCell.Tab.1.bottom/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607106958631" />
+    <state width="1366" height="180" key="GridCell.Tab.1.bottom/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
     <state width="1320" height="173" key="GridCell.Tab.1.bottom/0.25.1366.743@0.25.1366.743" timestamp="1606780124687" />
     <state width="1320" height="216" key="GridCell.Tab.1.bottom/0.25.2646.743@0.25.2646.743" timestamp="1606956036154" />
     <state width="1320" height="176" key="GridCell.Tab.1.bottom/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517120" />
-    <state width="1366" height="180" key="GridCell.Tab.1.center" timestamp="1607106958631">
+    <state width="1366" height="180" key="GridCell.Tab.1.center" timestamp="1607107002407">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1366" height="180" key="GridCell.Tab.1.center/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607106958631" />
+    <state width="1366" height="180" key="GridCell.Tab.1.center/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
     <state width="1320" height="173" key="GridCell.Tab.1.center/0.25.1366.743@0.25.1366.743" timestamp="1606780124686" />
     <state width="1320" height="216" key="GridCell.Tab.1.center/0.25.2646.743@0.25.2646.743" timestamp="1606956036153" />
     <state width="1320" height="176" key="GridCell.Tab.1.center/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517120" />
-    <state width="1366" height="180" key="GridCell.Tab.1.left" timestamp="1607106958631">
+    <state width="1366" height="180" key="GridCell.Tab.1.left" timestamp="1607107002407">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1366" height="180" key="GridCell.Tab.1.left/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607106958631" />
+    <state width="1366" height="180" key="GridCell.Tab.1.left/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
     <state width="1320" height="173" key="GridCell.Tab.1.left/0.25.1366.743@0.25.1366.743" timestamp="1606780124686" />
     <state width="1320" height="216" key="GridCell.Tab.1.left/0.25.2646.743@0.25.2646.743" timestamp="1606956036153" />
     <state width="1320" height="176" key="GridCell.Tab.1.left/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517120" />
-    <state width="1366" height="180" key="GridCell.Tab.1.right" timestamp="1607106958631">
+    <state width="1366" height="180" key="GridCell.Tab.1.right" timestamp="1607107002407">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1366" height="180" key="GridCell.Tab.1.right/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607106958631" />
+    <state width="1366" height="180" key="GridCell.Tab.1.right/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
     <state width="1320" height="173" key="GridCell.Tab.1.right/0.25.1366.743@0.25.1366.743" timestamp="1606780124687" />
     <state width="1320" height="216" key="GridCell.Tab.1.right/0.25.2646.743@0.25.2646.743" timestamp="1606956036154" />
     <state width="1320" height="176" key="GridCell.Tab.1.right/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517120" />
