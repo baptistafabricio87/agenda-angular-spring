@@ -7,6 +7,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
+import javax.validation.Valid;
+
 @RestController
 @RequestMapping("/api/clientes")
 public class ClientController {
@@ -20,7 +22,7 @@ public class ClientController {
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public Client saveClient(@RequestBody Client client) {
+    public Client saveClient(@RequestBody @Valid Client client) {
         return repository.save(client);
     }
 
@@ -29,7 +31,7 @@ public class ClientController {
     public Client findById(@PathVariable Integer id) {
         return repository
                 .findById(id)
-                .orElseThrow( () -> new ResponseStatusException(HttpStatus.NOT_FOUND) );
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND));
     }
 
     @DeleteMapping("{id}")
@@ -46,7 +48,7 @@ public class ClientController {
 
     @PutMapping("{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
-    public void updateClient (@PathVariable Integer id, @RequestBody Client updatedClient) {
+    public void updateClient (@PathVariable Integer id, @RequestBody @Valid Client updatedClient) {
         repository
                 .findById(id)
                 .map(client -> {

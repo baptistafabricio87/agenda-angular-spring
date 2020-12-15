@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="ALL" />
+    <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -28,7 +28,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cb50d06-509b-4eb8-b99b-c764e7077e10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/agenda-angular-spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/agenda_angular_spring_ejb_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.10.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-core-5.4.11.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jandex-2.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/config/InternationalizationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/entities/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/entities/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/entities/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/model/entities/Service.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/rest/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gitlab/fabricio/castro/agenda/rest/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/config/TestConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/entities/Client$ClientBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/entities/Client$ClientBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/entities/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/entities/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/entities/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/model/entities/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/rest/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gitlab/fabricio/castro/agenda/rest/ClientController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,29 +89,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1knKfxhGflqgqnj9hFg4vIUIhrm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="h2" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="SELECTIVE" />
+    <property name="last_opened_file_path" value="/usr/lib/jvm/openjdk-11" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,7 +123,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn --version" />
+      <command value="mvn validate" />
+      <command value="mvn test" />
+      <command value="mvn install:install" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
@@ -102,7 +148,7 @@
       </method>
     </configuration>
     <configuration name="AgendaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="agenda" />
+      <module name="agenda-angular-spring" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.gitlab.fabricio.castro.agenda.*" />
@@ -110,6 +156,9 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.gitlab.fabricio.castro.agenda.AgendaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,6 +185,8 @@
       <workItem from="1606776539452" duration="86000" />
       <workItem from="1606776662317" duration="10231000" />
       <workItem from="1607103818317" duration="3739000" />
+      <workItem from="1607976482725" duration="3177000" />
+      <workItem from="1607979779550" duration="3625000" />
     </task>
     <servers />
   </component>
@@ -152,140 +203,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="536" y="172" width="673" height="343" key="#Assign_Data_Sources" timestamp="1606915754184">
-      <screen x="0" y="25" width="2646" height="743" />
-    </state>
-    <state x="584" y="284" key="#Assign_Data_Sources/0.25.1366.743@0.25.1366.743" timestamp="1606777715706" />
-    <state x="536" y="172" width="673" height="343" key="#Assign_Data_Sources/0.25.2646.743@0.25.2646.743" timestamp="1606915754184" />
-    <state x="584" y="286" width="563" height="244" key="#Assign_Data_Sources/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606338259277" />
-    <state x="312" y="78" width="732" height="643" key="#Inspections" timestamp="1606914987105">
-      <screen x="0" y="25" width="2646" height="743" />
-    </state>
-    <state x="312" y="78" width="732" height="643" key="#Inspections/0.25.2646.743@0.25.2646.743" timestamp="1606914987105" />
-    <state x="0" y="25" width="1366" height="739" key="#Project_Structure" timestamp="1606913657743">
-      <screen x="0" y="25" width="2646" height="743" />
-    </state>
-    <state x="0" y="25" width="1366" height="739" key="#Project_Structure/0.25.2646.743@0.25.2646.743" timestamp="1606913657743" />
-    <state x="166" y="28" width="1024" height="736" key="#Project_Structure/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606336649996" />
-    <state x="254" y="69" width="800" height="626" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606779224625">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state x="254" y="69" width="800" height="626" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1366.743@0.25.1366.743" timestamp="1606779224625" />
-    <state x="141" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606331908437" />
-    <state x="188" y="319" width="989" height="160" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606916409691">
-      <screen x="0" y="25" width="2646" height="743" />
-    </state>
-    <state x="188" y="319" width="989" height="160" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.25.2646.743@0.25.2646.743" timestamp="1606916409691" />
-    <state x="364" y="262" width="638" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606916389297">
-      <screen x="0" y="25" width="2646" height="743" />
-    </state>
-    <state x="364" y="262" width="638" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.2646.743@0.25.2646.743" timestamp="1606916389297" />
-    <state x="100" y="128" width="1166" height="540" key="DiffContextDialog" timestamp="1606336551492">
-      <screen x="0" y="28" width="1366" height="740" />
-    </state>
-    <state x="100" y="128" width="1166" height="540" key="DiffContextDialog/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606336551492" />
-    <state x="437" y="140" width="424" height="490" key="FileChooserDialogImpl" timestamp="1606779222172">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state x="437" y="140" width="424" height="490" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1606779222172" />
-    <state width="1366" height="180" key="GridCell.Tab.0.bottom" timestamp="1607107002407">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state width="1366" height="180" key="GridCell.Tab.0.bottom/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
-    <state width="1320" height="173" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1606780124686" />
-    <state width="1320" height="216" key="GridCell.Tab.0.bottom/0.25.2646.743@0.25.2646.743" timestamp="1606956036153" />
-    <state width="1320" height="176" key="GridCell.Tab.0.bottom/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517120" />
-    <state width="1366" height="180" key="GridCell.Tab.0.center" timestamp="1607107002406">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state width="1366" height="180" key="GridCell.Tab.0.center/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002406" />
-    <state width="1320" height="173" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1606780124685" />
-    <state width="1320" height="216" key="GridCell.Tab.0.center/0.25.2646.743@0.25.2646.743" timestamp="1606956036153" />
-    <state width="1320" height="176" key="GridCell.Tab.0.center/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517119" />
-    <state width="1366" height="180" key="GridCell.Tab.0.left" timestamp="1607107002406">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state width="1366" height="180" key="GridCell.Tab.0.left/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002406" />
-    <state width="1320" height="173" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1606780124685" />
-    <state width="1320" height="216" key="GridCell.Tab.0.left/0.25.2646.743@0.25.2646.743" timestamp="1606956036152" />
-    <state width="1320" height="176" key="GridCell.Tab.0.left/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517119" />
-    <state width="1366" height="180" key="GridCell.Tab.0.right" timestamp="1607107002407">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state width="1366" height="180" key="GridCell.Tab.0.right/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
-    <state width="1320" height="173" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1606780124685" />
-    <state width="1320" height="216" key="GridCell.Tab.0.right/0.25.2646.743@0.25.2646.743" timestamp="1606956036153" />
-    <state width="1320" height="176" key="GridCell.Tab.0.right/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517119" />
-    <state width="1366" height="180" key="GridCell.Tab.1.bottom" timestamp="1607107002407">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state width="1366" height="180" key="GridCell.Tab.1.bottom/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
-    <state width="1320" height="173" key="GridCell.Tab.1.bottom/0.25.1366.743@0.25.1366.743" timestamp="1606780124687" />
-    <state width="1320" height="216" key="GridCell.Tab.1.bottom/0.25.2646.743@0.25.2646.743" timestamp="1606956036154" />
-    <state width="1320" height="176" key="GridCell.Tab.1.bottom/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517120" />
-    <state width="1366" height="180" key="GridCell.Tab.1.center" timestamp="1607107002407">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state width="1366" height="180" key="GridCell.Tab.1.center/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
-    <state width="1320" height="173" key="GridCell.Tab.1.center/0.25.1366.743@0.25.1366.743" timestamp="1606780124686" />
-    <state width="1320" height="216" key="GridCell.Tab.1.center/0.25.2646.743@0.25.2646.743" timestamp="1606956036153" />
-    <state width="1320" height="176" key="GridCell.Tab.1.center/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517120" />
-    <state width="1366" height="180" key="GridCell.Tab.1.left" timestamp="1607107002407">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state width="1366" height="180" key="GridCell.Tab.1.left/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
-    <state width="1320" height="173" key="GridCell.Tab.1.left/0.25.1366.743@0.25.1366.743" timestamp="1606780124686" />
-    <state width="1320" height="216" key="GridCell.Tab.1.left/0.25.2646.743@0.25.2646.743" timestamp="1606956036153" />
-    <state width="1320" height="176" key="GridCell.Tab.1.left/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517120" />
-    <state width="1366" height="180" key="GridCell.Tab.1.right" timestamp="1607107002407">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state width="1366" height="180" key="GridCell.Tab.1.right/0.25.1366.743/1366.48.1280.720@0.25.1366.743" timestamp="1607107002407" />
-    <state width="1320" height="173" key="GridCell.Tab.1.right/0.25.1366.743@0.25.1366.743" timestamp="1606780124687" />
-    <state width="1320" height="216" key="GridCell.Tab.1.right/0.25.2646.743@0.25.2646.743" timestamp="1606956036154" />
-    <state width="1320" height="176" key="GridCell.Tab.1.right/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606416517120" />
-    <state width="1320" height="216" key="GridCell.Tab.2.bottom" timestamp="1606956036155">
-      <screen x="0" y="25" width="2646" height="743" />
-    </state>
-    <state width="1320" height="216" key="GridCell.Tab.2.bottom/0.25.2646.743@0.25.2646.743" timestamp="1606956036155" />
-    <state width="1320" height="216" key="GridCell.Tab.2.center" timestamp="1606956036154">
-      <screen x="0" y="25" width="2646" height="743" />
-    </state>
-    <state width="1320" height="216" key="GridCell.Tab.2.center/0.25.2646.743@0.25.2646.743" timestamp="1606956036154" />
-    <state width="1320" height="216" key="GridCell.Tab.2.left" timestamp="1606956036154">
-      <screen x="0" y="25" width="2646" height="743" />
-    </state>
-    <state width="1320" height="216" key="GridCell.Tab.2.left/0.25.2646.743@0.25.2646.743" timestamp="1606956036154" />
-    <state width="1320" height="216" key="GridCell.Tab.2.right" timestamp="1606956036155">
-      <screen x="0" y="25" width="2646" height="743" />
-    </state>
-    <state width="1320" height="216" key="GridCell.Tab.2.right/0.25.2646.743@0.25.2646.743" timestamp="1606956036155" />
-    <state width="257" height="520" key="HiddenNamespacesPopup" timestamp="1606778892813">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state width="257" height="520" key="HiddenNamespacesPopup/0.25.1366.743@0.25.1366.743" timestamp="1606778892813" />
-    <state x="216" y="56" width="924" height="680" key="Maven.ArtifactSearchDialog" timestamp="1606331843590">
-      <screen x="0" y="28" width="1366" height="740" />
-    </state>
-    <state x="216" y="56" width="924" height="680" key="Maven.ArtifactSearchDialog/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606331843590" />
-    <state x="5" y="25" width="1356" height="736" key="SettingsEditor" timestamp="1606779576428">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state x="5" y="25" width="1356" height="736" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1606779576428" />
-    <state x="172" y="33" key="SettingsEditor/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606336585464" />
-    <state x="100" y="128" width="1166" height="540" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1606336551492">
-      <screen x="0" y="28" width="1366" height="740" />
-    </state>
-    <state x="100" y="128" width="1166" height="540" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.28.1366.740/1366.48.1280.720@0.28.1366.740" timestamp="1606336551492" />
-    <state width="600" height="428" key="javadoc.popup" timestamp="1606777738576">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state width="600" height="428" key="javadoc.popup/0.25.1366.743@0.25.1366.743" timestamp="1606777738576" />
-    <state x="373" y="152" width="610" height="495" key="refactoring.ChangeSignatureDialog" timestamp="1606914709283">
-      <screen x="0" y="25" width="2646" height="743" />
-    </state>
-    <state x="373" y="152" width="610" height="495" key="refactoring.ChangeSignatureDialog/0.25.2646.743@0.25.2646.743" timestamp="1606914709283" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
